@@ -1,6 +1,6 @@
 # University Coding Journey 🚀
 
-This repository contains various codes I have learned throughout my studies at **Institut Teknologi Sumatera** (ITERA), majoring in **Data Science**. It includes projects, exercises, and implementations in both **Python** and **R**.
+This repository contains various codes I have learned throughout my studies at Institut Teknologi Sumatera (ITERA), majoring in Data Science. It includes projects, exercises, and implementations in both Python and R.
 
 ## 📂 Contents
 - **Python** 🐍: Data analysis, machine learning, and more.
